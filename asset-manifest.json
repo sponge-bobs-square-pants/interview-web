@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/interview-web/static/js/main.aed9c57f.js",
+    "index.html": "/interview-web/index.html",
+    "main.aed9c57f.js.map": "/interview-web/static/js/main.aed9c57f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.aed9c57f.js"
+  ]
+}
