@@ -6,6 +6,7 @@ import { Provider } from 'react-redux'
 import { FirstProvider } from './Components/Context/FirstContext';
 import { AuthProvider } from './Components/Context/AuthContext';
 
+  
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
     // <Provider store={store}>
